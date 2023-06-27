@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Adolfo Rosemberg
+- 👀 I’m interested in programming and reading about web develop
+- 🌱 I’m currently learning laravel
